@@ -1,0 +1,1 @@
+This section describes the standard format of the MongoDB connection URI used to connect to a MongoDB database server. The format is the same for all official MongoDB drivers. For a list of drivers and links to driver documentation, see MongoDB Drivers and Client Libraries.
